@@ -10,7 +10,7 @@ até a interface no celular e a publicação.
 ### Projetos
 - **MathUni**: jogo educativo web com minigames, combate e chefes do folclore brasileiro (em desenvolvimento)
 - **Cifra-Dog**: app web de cifras pensado para o celular, que eu uso nos meus shows
-- **Mathfund: jogo educativo web com perguntas, focado para crianças do ensino fundamental (antecessor do MathUni)
+- **Mathfund**: jogo educativo web com perguntas, focado para crianças do ensino fundamental (antecessor do MathUni)
 - **MathFund School**: versão do MathFund para escolas, com conquistas
 - **Projeto das Árvores**: simulador de ABB, AVL e Rubro-Negra em Java (faculdade)
 
