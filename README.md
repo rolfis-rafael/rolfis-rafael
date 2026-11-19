@@ -18,4 +18,4 @@ até a interface no celular e a publicação.
 JavaScript · PHP · Java · Python · C · HTML · CSS
 
 ### Contato
-[LinkedIn](https://www.linkedin.com/in/rafael-simao-carneiro) · [Portfólio]([link](https://rolfis-rafael.github.io/))
+[LinkedIn](https://www.linkedin.com/in/rafael-simao-carneiro) · [Portfólio]((https://rolfis-rafael.github.io/))
